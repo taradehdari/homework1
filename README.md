@@ -1,4 +1,5 @@
 # homework1: CSS Refactoring
+The purpose of this project was to learn to refractor code.
 This was my first time refactoring a code. We refractor code to make a code easier to read and understand for others. 
 So, when I went in to refactor this code I went and looked for any duplications. 
 I combined all the duplications on CSS by changing some of the wording on html.
