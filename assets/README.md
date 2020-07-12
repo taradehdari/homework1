@@ -10,3 +10,7 @@ I changed a divisions to sections and asides accordingly as well as changed some
 I did this so that on the css side I didn't need to have multiple repeats of the same styling. 
 Once I did that, I was able to clean the code at the best of my ability without changing the website.
 This homework initially gave me some complications but after asking for help, and some google searches, I found out how to reractor code. 
+
+
+
+https://github.com/taradehdari/homework1/tree/master/assets
