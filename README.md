@@ -12,6 +12,12 @@ Last, I went in and added "alt=" for the images.
 Once I did that, I was able to clean the code at the best of my ability without changing the website.
 This homework initially gave me some complications but after asking for help, and some google searches, I found out how to refactor code. 
 
-
+![CSS_pg1](./assets/image/CSS_pg1.png)
+![CSS_pg2](./assets/image/CSS_pg2.png)
+![CSS_pg3](./assets/image/CSS_pg3.png)
+![CSS_pg4](./assets/image/CSS_pg4.png)
+![HTML_pg1](./assets/image/HTML_pg1.png)
+![HTML_pg2](./assets/image/HTML_pg2.png)
+![website_page](./assets/image/website_page.png)
 
 https://github.com/taradehdari/homework1/tree/master/assets
